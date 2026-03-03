@@ -19,7 +19,7 @@ These were designed around the [clicky-clack fridge door](https://github.com/tan
 - 3 files per printer size. Top and bottom for the hinged side of the printer, and one for the handle side.
 - Each print is a quarter. Top and bottom hinge side are mirrored. Handle side is printed twice, mirrored twice.
 
-![CAD](Images/gasket_cad.jpg)
+![CAD](Images/gasket_cad.png)
 
 ## Changes
 2026-03-03: Released
